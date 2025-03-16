@@ -1,4 +1,3 @@
-
 import streamlit as st
 import json
 import os
@@ -20,6 +19,9 @@ def save_data(data):
 
 # Streamlit UI
 st.set_page_config(page_title="Bayt al-Hikma: Library Manager", page_icon="📚", layout="wide")
+
+# Heading
+st.title("🏛️ Bait al-Hikma Library")
 
 # Sidebar
 st.sidebar.title("📚 Library Menu")
