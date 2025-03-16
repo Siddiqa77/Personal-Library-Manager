@@ -1,5 +1,5 @@
 [project]
-name = "personal-library-manager"
+name = "librarymanager"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
