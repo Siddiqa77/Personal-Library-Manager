@@ -1,0 +1,10 @@
+{
+    "books": [
+        {
+            "title": "Harry potter",
+            "author": "JK Rowling",
+            "year": 2001,
+            "read": false
+        }
+    ]
+}
